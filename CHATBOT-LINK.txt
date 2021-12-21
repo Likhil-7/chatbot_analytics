@@ -1,0 +1,3 @@
+WEBSITE: https://omnifoodv2.netlify.app/
+
+ANALYTICS: https://wotnot.io/
